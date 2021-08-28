@@ -16,7 +16,7 @@ Using python library:
 
 It read the base64 from file (file contain huge chunk of base64), and decode it
 
-**[Please check out the full script _here_](https://github.com/austin-lai/Python-Decode-Json-Web-Token-JWT/blob/master/python-decode-jwt-from-file.py)**
+**[Please check out the full script _here_](https://github.com/austin-lai/Python-Decode-Base64-50-Times-from-file/blob/master/python-decode-huge-b64.py)**
 
 <!-- /Description -->
 
